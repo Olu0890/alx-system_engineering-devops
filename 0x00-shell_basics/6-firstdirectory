@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m file/tmp/my_first_directory
+mkdir -m 755 home/tmp/my_first_directory
